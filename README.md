@@ -1,1 +1,5 @@
-# Recycling
+# Garbage Categorization
+* Our project endeavors to create an informative online platform dedicated to waste management and recycling, offering comprehensive insights into various aspects of waste categorization and recycling practices globally. The homepage acts as the central hub, featuring intuitive navigation, compelling visuals, and essential information emphasizing the significance of waste management.
+* The project aims for ,our platform seeks to provide users with detailed information on waste management and recycling practices worldwide. Through intuitive navigation and 
+informative content, users can explore diverse waste categories, understand regional waste production patterns, and access practical guidance on recycling methods and facilities.
+* Programming languages used in the development of our platform primarily include Python, known for its versatility and robustness in web application development. Python's extensive libraries and frameworks enable us to implement various features seamlessly, ensuring a smooth and enriching user experience across the platform.
